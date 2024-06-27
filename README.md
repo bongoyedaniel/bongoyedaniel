@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 👨‍💻 Main languages: Java ,C#
-- 👨‍💻 Also great in : php , JavaScript
-- 🏍 Freelancer : Unity Engine Game dev
+- 👨‍💻 Also great in : JavaScript,TypeScript
+- 🏍 Freelancer : Unity Game dev
 - 📝 Learning python
 - 📫 How to reach me: <a href="mailto:danielbongoye@gmail.com">Mail me</a>
 - 😄 Pronouns: he/him
