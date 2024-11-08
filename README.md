@@ -2,7 +2,7 @@
 
 **Hi there! 👋**
 
-I'm a edicated Unity game developer with a passion for crafting immersive gaming experiences. 
+I'm a dedicated Unity game developer with a passion for crafting immersive gaming experiences. 
 
 **What I'm Good At:**
 
