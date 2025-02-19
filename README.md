@@ -7,13 +7,19 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0145b40ecb783448f6)
 
 ## Badges:
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23444444.svg?style=for-the-badge&logo=Unity)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+> **Languages**
+> - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+> - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
+> **Frameworks ,libraries and tools**
+> - ![Unity](https://img.shields.io/badge/Unity-%23444444.svg?style=for-the-badge&logo=Unity)
+> - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+> - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ### Game Dev 🎮:
 **[Check Out Some of My Work:](https://bongoye.itch.io/)**
+
+
+### Mobile Applications 📱
+- [Notebook](https://github.com/bongoyedaniel/Notebook-App/releases)
