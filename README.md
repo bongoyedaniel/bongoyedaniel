@@ -10,7 +10,6 @@
 > **Languages**
 > - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 > - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-> - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 > **Frameworks ,libraries and tools**
 > - ![Unity](https://img.shields.io/badge/Unity-%23444444.svg?style=for-the-badge&logo=Unity)
